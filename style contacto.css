@@ -1,0 +1,53 @@
+<STYLE TYPE="text/css" MEDIA=screen>
+        <!--
+          BODY  { background-color: #00aae4; }
+          P EM  { background: #e2ba1f; color: black }
+          .nota { margin-left: 5em; margin-right: 5em }
+          li {
+            color: blue
+        }
+        h3 {
+            color: #00aae4
+            
+                      }   
+          h2 {
+color: #e2ba1f
+
+          }   
+                header {
+                  text-align: center;
+                    border-style: double;
+                    background-color: #00aae4;
+                        border-color:blue;
+                        font-size: 100px;
+                        border-top-width
+                          logo  float: left;
+          display: block;
+          margin-right: 0;
+         } 
+                footer p {
+                  margin: 0;
+                  font-size: 18px;
+                }
+                footer {
+                  padding: 5px;
+                  display: flex;     
+                                border-style: double;
+                                background-color: #00aae4;
+                                border-color:blue;                
+                        } 
+                      
+                
+          tittle {
+            background-color: #00aae4;
+            font-size: 70px;
+        } 
+        footer {
+            background-color: #00aae4;
+            margin-left: 20em; margin-right: 20em
+        } 
+          body {
+    font-family: Chinese rocks
+}
+          -->
+        </STYLE>
