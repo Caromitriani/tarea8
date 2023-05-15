@@ -1,0 +1,87 @@
+<STYLE TYPE="text/css" MEDIA=screen>
+        <!--
+          body  { background-color: #00aae4; }
+          P EM  { background: #e2ba1f; color: black }
+          .nota { margin-left: 5em; margin-right: 5em }
+          li {
+            color: blue
+        }
+        header {
+          text-align: center;
+            border-style: double;
+            background-color: #00aae4;
+                border-color:blue;
+                font-size: 100px;
+                border-top-width
+                logo.   float: left;
+  display: block;
+  margin-right: 0;
+ } 
+        
+                 
+        h3 {
+            color: #00aae4
+            
+                      }   
+          
+        ul {list-style: none;
+            }
+            ul {
+  display: flex;
+  flex-direction: row;
+}
+   li {
+        padding: 30px;
+        background-color: lightblue;
+        margin: 15px;
+      }
+
+                        h2 {
+color: #e2ba1f
+
+          }   
+          header {
+            background-color: #00aae4;
+            font-size: 70px;
+        } 
+        footer {
+  padding: 5px;
+  display: flex;     
+                border-style: double;
+                background-color: #00aae4;
+                border-color:blue;                
+        } 
+        
+          body {
+    font-family: Chinese rocks
+}
+ body {
+          background-color: lightskyblue;
+  }
+
+footer p {
+  margin: 0;
+  font-size: 18px;
+}
+ @media only screen and (max-width: 600px) {
+      body {
+        font-size: 14px;
+      }
+      
+      h1 {
+        font-size: 25px;
+        margin-bottom: 10px;
+      }
+      h3 {
+        font-size: 20;
+      }
+      p {
+        font-size: 12px;
+        margin-bottom: 10px;
+      }
+  body {
+          background-color: lightskyblue;
+  }
+}
+          -->
+        </STYLE>
